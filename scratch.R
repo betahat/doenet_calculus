@@ -17,7 +17,7 @@ source("functions.R")
 # load data (put in a doenetid - good doenetids to use are on slack)
 #doenetid <- "_TETkqoYS3slQaDwjqkMrX"
 #doenetid <- "_PY82WGbGMv9FIVDzJdxgZ"
-doenetid <- "_ToZ1Ot0vL3eRyuai4Bkkd"
+doenetid <- "_7HRW969pdrvTOGMxdtERl"
 #doenetid <- "_ds4TPv9RAI9b3DnYvgROo"
 raw <-  stream_in(file(
   paste0(
